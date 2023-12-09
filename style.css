@@ -1,0 +1,13 @@
+body{
+    background-color: hsl(30%, 35%, 92%);
+    height: 100vh;
+    width: 100vw;
+}
+main{display: flex;
+    color: black;
+    height:30rem;
+    width:45rem;
+  margin: 5rem 10rem;  
+  padding: 5rem;
+
+}
