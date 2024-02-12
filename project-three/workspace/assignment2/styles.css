@@ -1,0 +1,45 @@
+body {
+    background-color: yellow;
+}
+main {
+    box-sizing: border-box;
+    background-color: white;
+    height: 450px;
+    width: 300px;
+    margin: 300px;
+    margin-left: 500px;
+    margin-top: 90px;
+}
+.section1 img {
+   margin: 19px;
+   margin-bottom: 0%;
+    width: 265px;
+}
+.section2 {
+    margin: 19px;
+}
+.section2 .details {
+background-color: yellow;
+height: max-content;
+width: fit-content;
+font-family: 'Times New Roman', Times, serif;
+font-size: small;
+}
+.section2 h1 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-weight: bold;
+}
+.section2 .details2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.section3 {
+    display: flex;
+    font-weight: bolder;
+    margin: 10px;
+    border-radius: 5px;
+}
+.section3 p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
